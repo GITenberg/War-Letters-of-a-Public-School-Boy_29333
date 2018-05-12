@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33852'
     url: http://www.gutenberg.org/2009/agents/33852
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29333#War-Letters-of-a-Public-School-Boy
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2009-07-06'
 gutenberg_type: Text
